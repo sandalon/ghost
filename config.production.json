@@ -3,7 +3,8 @@
 		"client": "sqlite3",
 		"connection": {
 			"filename": "content/data/ghost.db"
-		}
+		},
+		"useNullAsDefault": true
 	},
 	"caching": {
 		"frontend": {
